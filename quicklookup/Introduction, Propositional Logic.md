@@ -1,7 +1,7 @@
 - *Cardinality:* If *A* = {1,2,3,4}, then the cardinality of *A*, denoted by |*A*|, is 4.
 - *Empty Set:* A set cardinality of which is zero, denoted by **∅**.
 - *Subset:* If every element of a set *A* is also in set *B*, then we say that *A* is a subset of *B*, written *A* ⊆ *B* (or *B* ⊇ *A*). A proper subset is a set *A* that is strictly contained in *B*, written as *A* ⊂ *B*, meaning that *A* excludes at least one element of *B*.
-- *Intersection:* The intersection of a set *A* with a set *B*, written as *A* ∩ *B*, is the set containing all elements which are in both *A* and *B*. Two sets are said to be disjoint if *A* ∩ *B* =**∅**.
+- *Intersection:* The intersection of a set *A* with a set *B*, written as *A* ∩ *B*, is the set containing all elements which are in both *A* and *B*. Two sets are said to be disjoint if *A* ∩ *B* = **∅**.
 - *Union:* The union of a set *A* with a set *B*, written as *A* ∪ *B*, is the set of all elements which are in either *A* or *B* or both.
 - *Complements:* If *A* and *B* are two sets, then the relative complement of *A* in *B*, or the set difference between *B* and *A*, written as *B* − *A* or *B* \ *A*, is the set of elements in *B*, but not in *A*: *B* \ *A*={*x*∈*B*|*x*  **∉**  *A*}.
 - *Cartesian product(Cross product):* written as *A* × *B*, is the set of all pairs whose first component is an element of *A* and whose second component is an element of *B*. In set notation, *A*×*B* = {(*a*,*b*) | *a* ∈ *A*,*b* ∈ *B*}.
